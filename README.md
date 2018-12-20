@@ -13,14 +13,20 @@ matplotlib
 etc....
 
 ##Train deterministic model:
-    \'python train_d.py\'
+```
+python train_d.py
+```
     
     
 After training deterministic model, a stochastic model should be trained.
     
 ##Train stochastic model:
-    python train_s.py
+```
+python train_s.py
+```
     
     
 ##Predict and show image of each state prediction:
-    python predict.py
+```
+python predict.py
+```
