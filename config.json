@@ -1,0 +1,17 @@
+{
+	"nInHidden": 100,
+	"nTransporter": 2,
+	"npred": 8,
+	"ncond": 8,
+	"nState": 6,
+	"nAction": 1,
+	"n_latent": 16,
+	"nfeature": 20,
+	"batch_size": 64,
+	"lr": 0.001,
+	"nEpoch": 1000,
+	"epoch_size": 20,
+	"loss": "l2",
+	"valid": "True",
+	"ScalerType": "MM"
+}
