@@ -13,7 +13,7 @@ matplotlib
 etc....
 
 ##Train deterministic model:
-    python train_d.py
+    \'python train_d.py\'
     
     
 After training deterministic model, a stochastic model should be trained.
